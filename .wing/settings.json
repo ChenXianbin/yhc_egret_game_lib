@@ -1,0 +1,25 @@
+{
+	"search.exclude": {
+		"**/bin-debug": true,
+		"**/bin-release": true
+	},
+	"editor.tabSize": 4,
+	"editor.renderWhitespace": "all",
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		"bin-debug": true,
+		".wing": true,
+		"bin-release": true,
+		"tools": true,
+		"favicon.ico": true,
+		"tsconfig.json": true,
+		"wingProperties.json": true
+	},
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": true,
+	"editor.trimAutoWhitespace": false,
+	"typescript.check.tscVersion": false
+}
